@@ -1,5 +1,5 @@
 {
-  "name": "whistle.autosave",
+  "name": "whistle.autosave_mt",
   "version": "0.1.0",
   "description": "自动保存指定抓包数据到本地目录",
   "main": "./lib",
